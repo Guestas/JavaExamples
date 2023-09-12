@@ -1,7 +1,7 @@
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class Hash {
+
     public static void main(String[] args) {
         Set<String> stringSetA = new HashSet<>();
 
@@ -12,7 +12,7 @@ public class Hash {
         stringSetA.add("Pear");
 
         // Print the HashSet
-        System.out.println(stringSetA); // Output: [Banana, Apple, Cherry]
+        System.out.println(stringSetA); // Output: [Pear, Cherry, Orange, Banana]
 
         Set<String> stringSetB = new HashSet<>();
 
@@ -22,7 +22,11 @@ public class Hash {
         stringSetB.add("Orange");
         stringSetB.add("Pear");
 
-        System.out.println(stringSetB); // Output: [Banana, Apple, Cherry]
+        System.out.println(stringSetB); // Output: [Apple, Pear, Cherry, Orange]
+
+        List<String> list = new ArrayList<String>(stringSetB);
+        Collections.sort(list);
+        System.out.println(list); // Output: [Apple, Cherry, Orange, Pear]
 
 
         Set<String> unionAB = new HashSet<>();
