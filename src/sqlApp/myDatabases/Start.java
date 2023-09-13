@@ -1,4 +1,6 @@
-package sqlApp;
+package sqlApp.myDatabases;
+
+import sqlApp.myDatabases.model.DatasourceFromModel;
 
 import java.sql.*;
 
@@ -7,6 +9,8 @@ public class Start {
 
     public static void main(String[] args) {
 
+
+        // library in file -> project structure...
         DatasourceFromModel data = new DatasourceFromModel();
         data.open();
         try {

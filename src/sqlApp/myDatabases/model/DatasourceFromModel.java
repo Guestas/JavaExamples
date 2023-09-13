@@ -1,4 +1,4 @@
-package sqlApp;
+package sqlApp.myDatabases.model;
 
 import java.sql.*;
 import java.util.ArrayList;
