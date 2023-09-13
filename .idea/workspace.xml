@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878856f2-5c0b-4009-9708-b2f66c10899b" name="Changes" comment="adds2">
-      <change afterPath="$PROJECT_DIR$/database/music.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/DatasourceFromModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/MainForModels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/SongArtist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/testjava.db" beforeDir="false" afterPath="$PROJECT_DIR$/database/testjava.db" afterDir="false" />
+    <list default="true" id="878856f2-5c0b-4009-9708-b2f66c10899b" name="Changes" comment="adds3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/testdata.db" beforeDir="false" afterPath="$PROJECT_DIR$/database/testdata.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/testjava.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examples/sqlApp/DatasourceFromModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examples/sqlApp/DatasourceFromModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examples/sqlApp/MainForModels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examples/sqlApp/MainForModels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examples/sqlApp/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examples/sqlApp/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examples/sqlApp/model/Datasource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examples/sqlApp/model/Datasource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlApp/DatasourceFromModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlApp/DatasourceFromModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlApp/MainForModels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlApp/MainForModels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sqlApp/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlApp/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlApp/model/Datasource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlApp/model/Datasource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Guestas"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Guestas&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -45,28 +46,28 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2VF2X4kkuBMCBrgekRjYtmkDfw2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/martince/Documents/Java/JavaExamples",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/martince/Documents/Java/JavaExamples&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/database" />
@@ -105,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694589922216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adds2">
+      <option name="closed" value="true" />
+      <created>1694590320275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694590320275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adds3">
+      <option name="closed" value="true" />
+      <created>1694590431939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694590431939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adds" />
     <MESSAGE value="adds2" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds2" />
+    <MESSAGE value="adds3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds3" />
   </component>
 </project>
