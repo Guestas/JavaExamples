@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="878856f2-5c0b-4009-9708-b2f66c10899b" name="Changes" comment="adds2">
+      <change afterPath="$PROJECT_DIR$/database/music.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/DatasourceFromModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/MainForModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Datasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqlApp/model/SongArtist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/testjava.db" beforeDir="false" afterPath="$PROJECT_DIR$/database/testjava.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sqlApp/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlApp/Start.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Guestas"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1070542d-ee45-425e-83f3-81158d9ab276" />
+        <option name="url" value="https://github.com/Guestas/JavaExamples/" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VF2X4kkuBMCBrgekRjYtmkDfw2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/martince/Documents/Java/JavaExamples/database",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="878856f2-5c0b-4009-9708-b2f66c10899b" name="Changes" comment="" />
+      <created>1694417545749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694417545749</updated>
+    </task>
+    <task id="LOCAL-00001" summary="adds">
+      <option name="closed" value="true" />
+      <created>1694513623022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694513623022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adds2">
+      <option name="closed" value="true" />
+      <created>1694531595554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694531595554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adds" />
+    <MESSAGE value="adds2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds2" />
+  </component>
+</project>
